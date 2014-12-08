@@ -3,3 +3,10 @@ body{
   color:#00ff00;
 
 }
+.bud{
+  color:#00ff00;
+  width:80px;
+  height:80px;
+  background-color:black;
+  border-radius:6px;
+}
